@@ -5,7 +5,7 @@
 
 <b>You can find a live version of this bot in telegram as [@themegadownloadbot](http://t.me/themegadownloadbot)</b>
 
-<p align="center"><a href="https://t.me/rezoth_tm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a></p>
+<p align="center"><a href="https://t.me/SLBotsOfficial"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a></p>
 
 Please be kind to star and fork this repo!✨😇
 <br>
