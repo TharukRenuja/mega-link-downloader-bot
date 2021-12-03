@@ -3,7 +3,7 @@
 
 <p align="center">(When I mean noob I really mean noob!)</p>
 
-<b>You can find a live version of this bot in telegram as [@themegadownloadbot](http://t.me/themegadownloadbot)</b>
+<b>You can find a live version of this bot in telegram as [@megadlslbot](http://t.me/megadlslbot)</b>
 
 <p align="center"><a href="https://t.me/SLBotsOfficial"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a></p>
 
